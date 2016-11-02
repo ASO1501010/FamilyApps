@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FamilyApps</string>
+    <string name="button_menu">今日の朝ごはん</string>
+    <string name="button_send">送信</string>
+    <string name="subject">件名</string>
+    <string name="mail_to1">zigbee3608@gmail.com</string>
+    <string name="menu">menu</string>
+</resources>
